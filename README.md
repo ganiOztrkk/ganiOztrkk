@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gani Ozturk</h1>
-<h3 align="center">A passionate Jr. FullStack developer from Turkey</h3>
-<h4 align="center">I'm on an exciting journey to become a Fullstack .NET Developer. Currently, I am based in Istanbul, Turkey, and I'd like to share some insights into my path and progress in the world of software development.</h3>
-<p align="left">
-I recently completed the "Turkcell Geleceği Yazanlar .NET Bootcamp Program," which was an incredible learning experience. This program provided me with a solid foundation in .NET development and sparked my passion for coding.
+<h1 align="center">Hi 👋, Hi, I'm Gani Ozturk, Based in Turkiye</h1>
+<h4 align="center">I am a skilled Fullstack .NET Developer with over 2 years of experience in application development.</h3>
+<p>
+I specialize in .NET Web API and have a good understanding of many .NET technologies. I have developed my skills through bootcamp programs, which gave me a strong base and increased my love for coding.
 </p>
 <p>
-Currently, I am enrolled in the "Fullstack .NET Developer Bootcamp Program" at Istanbul Egitim Akademi. This comprehensive program is helping me deepen my knowledge and skills in both frontend and backend development using the .NET ecosystem.
+Besides backend development, I am skilled in frontend technologies like JavaScript, TypeScript, jQuery, HTML, CSS, MVC and Angular. I have good experience working with databases and I know how to write effective T-SQL queries. I also use EntityFramework and ADO.NET to build strong and reliable applications.
 </p>
 <p>
-My ultimate goal is to become a proficient Fullstack Developer. To achieve this, I am committed to continuous learning and self-improvement. I am actively engaged in personal projects, coding challenges, and online courses to expand my expertise.
+Currently, I work full-time as a Fullstack .NET Developer at a software company, where I continue to grow my skills and take on new challenges.
 </p>
 
 - 📝 I regularly write junior level articles on [https://medium.com/@ganioztrk](https://medium.com/@ganioztrk)
