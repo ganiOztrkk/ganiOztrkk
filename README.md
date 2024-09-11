@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hi, I'm Gani Ozturk, Based in Turkiye</h1>
+<h1 align="center">Hi 👋, I'm Gani Ozturk, Based in Turkiye</h1>
 <h4 align="center">I am a skilled Fullstack .NET Developer with over 2 years of experience in application development.</h3>
 <p>
 I specialize in .NET Web API and have a good understanding of many .NET technologies. I have developed my skills through bootcamp programs, which gave me a strong base and increased my love for coding.
